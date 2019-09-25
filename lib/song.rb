@@ -5,6 +5,8 @@ ninety_nine_problems.name
 
 
 ninety_nine_problems.artist
+@@artist = artist
+@@artist.initialize
 
 
 ninety_nine_problems.genre
